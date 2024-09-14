@@ -3,7 +3,7 @@ This is Demo for  Git  &amp;  Github class
 
 
 # Teacher
-sharadha khapra
+self learn
 
 # student
 shashi kant
